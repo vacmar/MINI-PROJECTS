@@ -77,13 +77,21 @@ Example Output
 Below is an example of the 2048 game's graphical interface during gameplay:
 
 +------+------+------+------+
+
 |      |  2   |      |      |
+
 +------+------+------+------+
+
 |      |      |      |      |
+
 +------+------+------+------+
+
 |      |      |  2   |      |
+
 +------+------+------+------+
+
 |      |      |      |      |
+
 +------+------+------+------+
 
 The numbers represent tiles, and the user can merge them by moving in any direction.
